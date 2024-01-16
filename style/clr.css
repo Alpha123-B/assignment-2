@@ -201,3 +201,40 @@ header{
     border:none;
     margin-left: 100px;
   }
+  .mimu{
+    border-radius: 8px;
+    border-color: orangered;
+  }
+  .mimu .g{
+    color: #131318;
+    font-size: 24px;
+  }
+  .mimu .e{
+    color: #424242;
+  }
+  .mimu .geb{
+    margin-left: 100px;
+    padding-top: 100px;
+  }
+  .mimu .for{
+     background-color:whitesmoke ;
+     font-size: 12px;
+     font-weight: 500;
+     padding: 10px 0px 10px 0px;
+     text-align: center;
+  }
+  .mimu .ton{
+    background-color: orangered;
+    margin: 20px 0px 0px 0px;
+    padding: 20px;
+    color: whitesmoke;
+    font-weight: 500;
+    border: none;
+    font-size: 24px;
+
+  }
+  .mimu .mash{
+    position: absolute;
+    top:620%;
+    padding-left: 600px;
+  }
